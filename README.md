@@ -1,24 +1,17 @@
-# vv-theme
-
-## Project setup
+#### node版本
+```
+v16.15.0
+```
+#### npm版本
+```bash
+# npm install -g npm@8.12.1
+8.12.1
+```
+#### 安装依赖
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+#### 启动
 ```
-npm run serve
+npm run electron:serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
