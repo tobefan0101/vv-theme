@@ -1,3 +1,4 @@
+```
 auto import
 eslint
 prettier
@@ -75,3 +76,4 @@ bracket-pair-colorizer-2
     "@": "${folder}/src/render"
   },
 }
+```
